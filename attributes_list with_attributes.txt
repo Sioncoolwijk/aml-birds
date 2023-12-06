@@ -1,0 +1,28 @@
+has_bill_shape: curved_(up_or_down), dagger, hooked, needle, hooked_seabird, spatulate, all-purpose, cone, specialized
+has_wing_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_upperparts_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_underparts_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_breast_pattern: solid, spotted, striped, multi-colored	
+has_back_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_tail_shape: forked_tail, rounded_tail, notched_tail, fan-shaped_tail, pointed_tail, squared_tail
+has_upper_tail_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_head_pattern: spotted, malar, crested, masked, unique_pattern, eyebrow, eyeing, plain, eyeliner, striped, capped
+has_breast_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_throat_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_eye_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_bill_length: about_the_same_as_head, longer_than_head, shorter_than_head
+has_forehead_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_under_tail_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_nape_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_belly_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_wing_shape: rounded-wings, pointed-wings, broad-wings, tapered-wings, long-wings
+has_size: large_(16_-_32_in), small_(5_-_9_in), very_large_(32_-_72_in), medium_(9_-_16_in), very_small(3_-_5_in)
+has_shape: upright-perching_water-like, chicken-like-marsh, long-legged-like, duck-like, owl-like, gull-like, hummingbird-like, pigeon-like, tree-clinging-like, hawk-like, sandpiper-like, upland-ground-like, swallow-like, perching-like
+has_back_pattern: solid, spotted, striped, multi-colored
+has_tail_pattern: solid, spotted, striped, multi-colored
+has_belly_pattern: solid, spotted, striped, multi-colored
+has_primary_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_leg_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_bill_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_crown_color: blue, brown, iridescent, purple, rufous, grey, yellow, olive, green, pink, orange, black, white, red, buff
+has_wing_pattern: solid, spotted, striped, multi-colored
